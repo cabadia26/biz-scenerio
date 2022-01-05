@@ -3,8 +3,8 @@ Having to constantly count my inventory and running the store chasing costs and 
 and so my partner and I decided to go electronically. 
 I was referred to you as I was told you were the best to reach out for help.
 
-I have many colors including
-white, black, nude, yellow, gray, brown, pink, purple, blue, and navy 
+I have colors including
+white, black, and nude
 
 I have 2 of each size -small, medium, and large
 
@@ -36,5 +36,57 @@ date purchased, price purchased, date sold, price sold, and the date and time re
 4. which size sells the most
 
 5. avg how long does it take for inventory to be sold per color each week
+
+Current Inventory
+
+elbow, white, small, 2021-12-21, $6, 2021-12-25, 12.99
+elbow, white, small, 2021-12-21, $6, 2021-12-25, 12.99
+elbow, white, medium, 2021-12-21, $6, Null, Null
+elbow, white, medium, 2021-12-21, $6, 2021-12-31, 12.99
+elbow, white, large, 2021-12-21, $6, 2021-12-30, 12.99
+elbow, white, large, 2021-12-21, $6, 2021-12-31, 12.99
+
+wrist, white, small, 2021-12-21, $6, 2021-12-31, 12.99
+wrist, white, small, 2021-12-21, $6, Null, Null
+wrist, white, medium, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, white, medium, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, white, large, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, white, large, 2021-12-21, $6, 2021-12-30, 12.99
+
+elbow, black, small, 2021-12-21, $6, 2021-12-28, 12.99
+elbow, black, small, 2021-12-21, $6, 2021-12-30, 12.99
+elbow, black, medium, 2021-12-21, $6, 2021-12-28, 12.99
+elbow, black, medium, 2021-12-21, $6, 2021-12-28, 12.99
+elbow, black, large, 2021-12-21, $6, 2021-12-30, 12.99
+elbow, black, large, 2021-12-21, $6, 2021-12-30, 12.99
+
+wrist, black, small, 2021-12-21, $6, 2021-12-28, 12.99
+wrist, black, small, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, black, medium, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, black, medium, 2021-12-21, $6, 2021-12-30, 12.99
+wrist, black, large, 2021-12-21, $6, Null, Null
+wrist, black, large, 2021-12-21, $6, Null, Null
+
+elbow, nude, small, 2021-12-21, $6, 2021-12-23, 12.99
+elbow, nude, small, 2021-12-21, $6, 2021-12-24, 12.99
+elbow, nude, medium, 2021-12-21, $6, 2021-12-23, 12.99
+elbow, nude, medium, 2021-12-21, $6, 2021-12-26, 12.99
+elbow, nude, large, 2021-12-21, $6, 2021-12-31, 12.99
+elbow, nude, large, 2021-12-21, $6, 2021-12-29, 12.99
+
+wrist, nude, small, 2021-12-21, $6, 2021-12-24, 12.99
+wrist, nude, small, 2021-12-21, $6, Null, Null
+wrist, nude, medium, 2021-12-21, $6, 2021-12-22, 12.99
+wrist, nude, medium, 2021-12-21, $6, 2021-12-27, 12.99
+wrist, nude, large, 2021-12-21, $6, 2021-12-27, 12.99
+wrist, nude, large, 2021-12-21, $6, 2021-12-28, 12.99
+
+elbow, nude, small, 2021-12-21, $6, 2021-12-26, 12.99
+elbow, nude, small, 2021-12-21, $6, 2021-12-22, 12.99
+elbow, nude, medium, 2021-12-21, $6, 2021-12-24, 12.99
+elbow, nude, medium, 2021-12-21, $6, 2021-12-27, 12.99
+elbow, nude, large, 2021-12-21, $6, Null, Null
+elbow, nude, large, 2021-12-21, $6, Null, Null
+
 
 
