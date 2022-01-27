@@ -13,8 +13,15 @@ use BombShellDB
 go 
 
 --1
+--unsold items:
+select s.style, s.color, s.size, s.datepurchased, s.pricepurchased, PrintoutDateTime = getdate()
+from shell s
+where s.pricesold is null
+
+--sold items:
 select s.style, s.color, s.size, s.datepurchased, s.pricepurchased, s.datesold, s.pricesold, PrintoutDateTime = getdate()
 from shell s
+where s.pricesold is not null
 
 --2
 select s.style, s.color, s.size, s.datepurchased, s.pricepurchased, s.datesold, s.pricesold
