@@ -24,3 +24,4 @@ create table dbo.BombShell(
         constraint ck_BombShell_Date_Sold_and_Price_Sold_must_both_be_null_or_not_null
 )
 go 
+ 
