@@ -20,6 +20,7 @@ create table dbo.BombShell(
     PriceSold decimal(4,2)
         constraint ck_BombShell_price_sold_must_be_higher_than_zero check(pricesold > 0),
         constraint ck_Bombshell_price_sold_must_be_bigger_than_price_purchased check(pricesold > pricepurchased),
-        constraint ck_BombShell_Date_Sold_must_be_after_Date_purchased check(datesold > datepurchased)
-
+        constraint ck_BombShell_Date_Sold_must_be_after_Date_purchased check(datesold > datepurchased),
+        constraint ck_BombShell_Date_Sold_and_Price_Sold_must_both_be_null_or_not_null
 )
+go 
